@@ -1,11 +1,9 @@
 ﻿# IDrug
 
-**Colaboradores:**  Henrique Prado, Isac Silva, Marcos Dósea, Marcos Machado, Rafael Teles.
+**Colaboradores:**  Joane Stephay e Marcos Dósea.
 ***
 
 O iDrug é um software que irá possibilitar a doação de medicamentos que estão perto da sua data de validade, medicamentos esses que seriam descartados pelas farmácias, mas que ainda se encontram em plenas condições de uso. 
-
-
 
 
 ## Solicitantes
@@ -25,6 +23,8 @@ A farmácia realiza a verificação do vencimento dos medicamentos que estão pr
 Os administradores serão responsáveis pela ativação e desativação  de farmácias, sejam elas recém cadastradas ou as já presentes no banco de dados do sistema. 
 
 
-### Breve Demonstração em Vídeo
+## Execução do projeto
 
-<a href="https://drive.google.com/drive/folders/1HovK5U9J_HpXcHiqjjnZqEvZR9aqjic8?usp=sharing">Clique Aqui</a>
+Para executar o projeto, é preciso possuir o .net6.0 e MySQL.
+
+Também é necessário importar o dump do banco que se encontra em /AnaliseProjeto/idrug_dump.sql
